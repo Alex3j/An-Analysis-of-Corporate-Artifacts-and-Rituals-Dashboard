@@ -95,7 +95,7 @@ crises = {
 }
 windows = [60, 365]
 
-# Мейнтейнеры (вручную, как в работе)
+# Мейнтейнеры из текста ВКР
 maintainers_lodash = ['jdalton', 'jridgewell', 'megawac', 'bnjmnt4n', 'phated']
 maintainers_axios = ['jasonsaayman', 'DigitalBrainJS', 'mzabriskie', 'nickuraltsev']
 
